@@ -59,7 +59,7 @@ Tenho background em **design gráfico**, o que aprimora minha sensibilidade visu
 
 ## 🚀 Projetos em Destaque
 
-### 🎮 [GameWishlist — Wishlist de Jogos](https://github.com/JoaoOliveira80/Wishlist-SvelteKit)
+### 🎮 [GameWishlist — Wishlist de Jogos](https://github.com/JoaoOliveira80/Wishlist-SvelteKit) *(em desenvolvimento - demo pronta)*
 > Aplicação completa de wishlist de games com **SvelteKit 2 + Svelte 5 (runes)**, em produção no Vercel.
 - Busca em tempo real com debounce integrada à **RAWG API** (+500k jogos)
 - Filtros por gênero, tags e plataforma; modal de detalhes com abas
